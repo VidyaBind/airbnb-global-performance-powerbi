@@ -43,4 +43,12 @@
     
 - **User Experience (UX):** Clean narrative callout boxes alongside key visual charts for immediate stakeholder decision-making.
 
----
+
+## 📁 Project Structure & Data Source
+
+* **`Listings_data_dictionary.csv`**: Metadata & column descriptions for property listings.
+* **`Reviews_data_dictionary.csv`**: Metadata & column descriptions for customer reviews.
+
+### 🔗 Full Dataset Access
+Due to GitHub's file size limits, the raw datasets are hosted on Google Drive:
+* [Download Full Listings & Reviews Data](https://drive.google.com/drive/folders/1kjCYAddO-HyRlHPymfYjoA9y_59Pz2p6?usp=sharing)
